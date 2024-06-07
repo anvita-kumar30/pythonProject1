@@ -50,7 +50,6 @@ def plot_snake(gameWindow, color, snk_list, snake_size):
 
 
 #Welcome Screen
-
 def welcome():
     exit_game = False
     while not exit_game:
