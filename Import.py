@@ -6,10 +6,10 @@
 # print(result)  # Output: 3.0
 
 # from harry import welcome, harry
-import harry as hr
+import anv as hr
 import math
 
 print(dir(math))
 print(math.nan, type(math.nan))
 hr.welcome()
-print(hr.harry)
+print(hr.anv)
