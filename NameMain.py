@@ -1,3 +1,3 @@
-import harry
+import NameMainWelcome
 
-harry.welcome()
+NameMainWelcome.welcome()
